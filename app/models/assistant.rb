@@ -29,6 +29,7 @@ module Assistant
     Function::GetBills,
     Function::GetBillDetails,
     Function::GetPaycheckPlan,
+    Function::GetCashFlowForecast,
     Function::GetBillAudit,
     Function::CreateBill,
     Function::UpdateBill,
